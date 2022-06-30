@@ -1,0 +1,8 @@
+{
+    "name": "multiplayer-stats",
+    "version": "0.0.1",
+    "title": "Multiplayer Stats",
+    "author": "FMR",
+    "factorio_version": "1.1",
+    "description": "Shows statistics of all the players like a construction score and killed enemies."
+  }
